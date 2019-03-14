@@ -1,0 +1,10 @@
+{
+  "name": "mongodb-data-inserter",
+  "version": "1.0.0",
+  "author": "Jonas Pohren <jonaspohren@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "faker": "^4.1.0",
+    "mongoose": "^5.4.19"
+  }
+}
